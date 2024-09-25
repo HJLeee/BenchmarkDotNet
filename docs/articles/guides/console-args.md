@@ -240,7 +240,7 @@ dotnet run -c Release -- --filter * --runtimes net6.0 net8.0 --statisticalTest 5
 * `--maxWidth` max parameter column width, the default is 20.
 * `--envVars` colon separated environment variables (key:value).
 * `--strategy` the RunStrategy that should be used. Throughput/ColdStart/Monitoring.
-* `--platform` the Platform that should be used. If not specified, the host process platform is used (default). AnyCpu/X86/X64/Arm/Arm64/LoongArch64.
+* `--platform` the Platform that should be used. If not specified, the host process platform is used (default). AnyCpu/X86/X64/Arm/Arm64/LoongArch64/RiscV64.
 * `--runOncePerIteration` run the benchmark exactly once per iteration.
 * `--buildTimeout` build timeout in seconds.
 * `--wasmEngine` full path to a java script engine used to run the benchmarks, used by Wasm toolchain.

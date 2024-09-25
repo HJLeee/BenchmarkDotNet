@@ -51,5 +51,11 @@
         /// A PowerPC 64-bit (little-endian) processor architecture.
         /// </summary>
         Ppc64le,
+
+        /// <summary>
+        /// RISCV64
+        /// </summary>
+        RiscV64,
+
     }
 }

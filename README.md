@@ -115,7 +115,7 @@ The measured data can be exported to different formats (md, html, csv, xml, json
 *Supported runtimes:* .NET 5+, .NET Framework 4.6.1+, .NET Core 3.1+, Mono, NativeAOT  
 *Supported languages:* C#, F#, Visual Basic  
 *Supported OS:* Windows, Linux, macOS  
-*Supported architectures:* x86, x64, ARM, ARM64, Wasm and LoongArch64
+*Supported architectures:* x86, x64, ARM, ARM64, Wasm, LoongArch64 and RiscV64
 
 ## Features
 
